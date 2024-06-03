@@ -14,3 +14,15 @@ print("The time of audio in seconds is :", time_of_audio)
 frames = obj.readframes(-1)
 print(type(frames), type(frames[0]))
 print(len(frames))
+
+obj.close()
+
+obj_new = wave.open("Abhi_new.wav", "wb")
+
+obj_new.setnchannels(1)
+obj_new.setsampwidth(2)
+obj_new.setframerate(16000.0)
+
+obj_new.writeframes(frames)
+
+obj_new.close()
