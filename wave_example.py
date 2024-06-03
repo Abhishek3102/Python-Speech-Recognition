@@ -22,6 +22,7 @@ obj_new = wave.open("Abhi_new.wav", "wb")
 obj_new.setnchannels(1)
 obj_new.setsampwidth(2)
 obj_new.setframerate(44100.0)
+print("The type of frame is :",type(frames))
 
 obj_new.writeframes(frames)
 
