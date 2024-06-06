@@ -1,0 +1,874 @@
+[
+    {
+        "text": "Satisfy your need for happiness through your own curiosity with the Ranbir show your bro, Dhruv Jarell.",
+        "start": 640,
+        "end": 11462,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8160111904144287,
+        "speaker": null
+    },
+    {
+        "text": "Like, I feel he's too calm a guy.",
+        "start": 11638,
+        "end": 13670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5016520619392395,
+        "speaker": null
+    },
+    {
+        "text": "And then his instagram profile says Mamba mentality.",
+        "start": 13782,
+        "end": 16714,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6791320443153381,
+        "speaker": null
+    },
+    {
+        "text": "I'm sure he has mamba mentality.",
+        "start": 17334,
+        "end": 18846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7670824527740479,
+        "speaker": null
+    },
+    {
+        "text": "You can actually see it in his eyes when he's batting.",
+        "start": 18870,
+        "end": 21154,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.83371502161026,
+        "speaker": null
+    },
+    {
+        "text": "But from seeing his demeanor, like, seeing his calmness, you wouldn't think that this guy is also crazy.",
+        "start": 21614,
+        "end": 27018,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5734587907791138,
+        "speaker": null
+    },
+    {
+        "text": "What is Dhruv joral like?",
+        "start": 27126,
+        "end": 28586,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8792837858200073,
+        "speaker": null
+    },
+    {
+        "text": "Dhruv is the hardest guy at practice who, like, it's hard practice.",
+        "start": 28730,
+        "end": 36146,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.47362184524536133,
+        "speaker": null
+    },
+    {
+        "text": "It's not like, it's not for the softies.",
+        "start": 36290,
+        "end": 39386,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7608001828193665,
+        "speaker": null
+    },
+    {
+        "text": "It's like hard practice.",
+        "start": 39490,
+        "end": 40882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5459254384040833,
+        "speaker": null
+    },
+    {
+        "text": "I see.",
+        "start": 40978,
+        "end": 41370,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5826064944267273,
+        "speaker": null
+    },
+    {
+        "text": "I tell you those scram things, right?",
+        "start": 41402,
+        "end": 43362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6539741158485413,
+        "speaker": null
+    },
+    {
+        "text": "That happens to him almost every practice.",
+        "start": 43458,
+        "end": 45562,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.727623701095581,
+        "speaker": null
+    },
+    {
+        "text": "He's like that.",
+        "start": 45738,
+        "end": 46894,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6620773077011108,
+        "speaker": null
+    },
+    {
+        "text": "He just feels happy when he works hard.",
+        "start": 48034,
+        "end": 50250,
+        "sentiment": "POSITIVE",
+        "confidence": 0.923374593257904,
+        "speaker": null
+    },
+    {
+        "text": "If he doesn't get runs, he'll work even harder.",
+        "start": 50402,
+        "end": 52924,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6589164733886719,
+        "speaker": null
+    },
+    {
+        "text": "Harder.",
+        "start": 52954,
+        "end": 53644,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6505025029182434,
+        "speaker": null
+    },
+    {
+        "text": "Like, that just goes on.",
+        "start": 53984,
+        "end": 55120,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5294492244720459,
+        "speaker": null
+    },
+    {
+        "text": "Even this IPL, he just kept on working.",
+        "start": 55152,
+        "end": 56848,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5948016047477722,
+        "speaker": null
+    },
+    {
+        "text": "And that's been going on for the last two years.",
+        "start": 56896,
+        "end": 58512,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5395188331604004,
+        "speaker": null
+    },
+    {
+        "text": "I've been in with.",
+        "start": 58528,
+        "end": 59200,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7941014170646667,
+        "speaker": null
+    },
+    {
+        "text": "With him for the last two years.",
+        "start": 59232,
+        "end": 61000,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.852318286895752,
+        "speaker": null
+    },
+    {
+        "text": "We share rooms, we do everything together.",
+        "start": 61112,
+        "end": 63164,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6673500537872314,
+        "speaker": null
+    },
+    {
+        "text": "And I've just seen him.",
+        "start": 63824,
+        "end": 65192,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7374354600906372,
+        "speaker": null
+    },
+    {
+        "text": "He's a fun guy.",
+        "start": 65328,
+        "end": 66432,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9411792159080505,
+        "speaker": null
+    },
+    {
+        "text": "He's a very fun guy off the field.",
+        "start": 66528,
+        "end": 68184,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9662812948226929,
+        "speaker": null
+    },
+    {
+        "text": "We go out, hang together.",
+        "start": 68304,
+        "end": 70168,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5545827746391296,
+        "speaker": null
+    },
+    {
+        "text": "He loves his coffee, etcetera.",
+        "start": 70296,
+        "end": 72204,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9482774138450623,
+        "speaker": null
+    },
+    {
+        "text": "But then at practice, he's just, like I said, mama mentality.",
+        "start": 72624,
+        "end": 76872,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.560368537902832,
+        "speaker": null
+    },
+    {
+        "text": "Yeah.",
+        "start": 76928,
+        "end": 77168,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5491447448730469,
+        "speaker": null
+    },
+    {
+        "text": "They just get shit done regardless.",
+        "start": 77216,
+        "end": 79914,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4828038215637207,
+        "speaker": null
+    },
+    {
+        "text": "So, yeah, audiences are seeing it now.",
+        "start": 80334,
+        "end": 82894,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7824495434761047,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, that's the thing about cricket, man.",
+        "start": 82974,
+        "end": 85294,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5872551202774048,
+        "speaker": null
+    },
+    {
+        "text": "Like, there's all these back stories which audiences just see after.",
+        "start": 85334,
+        "end": 88394,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6887903213500977,
+        "speaker": null
+    },
+    {
+        "text": "Who's like that in terms of young players right now, who audiences haven't noticed yet, but you know, someone's going to pop.",
+        "start": 89374,
+        "end": 96274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.784103274345398,
+        "speaker": null
+    },
+    {
+        "text": "Dhruv is one who just did.",
+        "start": 96934,
+        "end": 98674,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8564814329147339,
+        "speaker": null
+    },
+    {
+        "text": "Other than him, I think Abhishek, they don't know Abhishek's story yet.",
+        "start": 100014,
+        "end": 105314,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7764826416969299,
+        "speaker": null
+    },
+    {
+        "text": "Both Abhishek Sharma and Porel Sharma has just popped up the season.",
+        "start": 107254,
+        "end": 111334,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9148430824279785,
+        "speaker": null
+    },
+    {
+        "text": "But I think they don't know the backstory at the way he practices, the way his life is and how hard he's gone through it.",
+        "start": 111494,
+        "end": 118630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5448244214057922,
+        "speaker": null
+    },
+    {
+        "text": "He's not even.",
+        "start": 118662,
+        "end": 119238,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5014614462852478,
+        "speaker": null
+    },
+    {
+        "text": "He's not brought that up, I think, yet.",
+        "start": 119286,
+        "end": 121350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7166740298271179,
+        "speaker": null
+    },
+    {
+        "text": "But then he is someone who practices really hard.",
+        "start": 121422,
+        "end": 124526,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48490914702415466,
+        "speaker": null
+    },
+    {
+        "text": "Habshek Sharma, we see him flamboyant and, you know, out there, chocolate boy, chocolate boy, whatever it is.",
+        "start": 124710,
+        "end": 131234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6162497401237488,
+        "speaker": null
+    },
+    {
+        "text": "But I've seen him practice.",
+        "start": 131744,
+        "end": 134144,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8092041015625,
+        "speaker": null
+    },
+    {
+        "text": "I've seen him get hit.",
+        "start": 134184,
+        "end": 135096,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5488913059234619,
+        "speaker": null
+    },
+    {
+        "text": "I've seen him get hit and then even keep on practicing.",
+        "start": 135160,
+        "end": 138312,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6298272013664246,
+        "speaker": null
+    },
+    {
+        "text": "So I think, yeah, see, we consume a lot of cricket memes.",
+        "start": 138368,
+        "end": 143256,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.561514675617218,
+        "speaker": null
+    },
+    {
+        "text": "I'm not talking about the trolling only, of course, that's a part of this meme culture.",
+        "start": 143320,
+        "end": 147360,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4879218339920044,
+        "speaker": null
+    },
+    {
+        "text": "But there's a lot of positive cricket meme culture that comes out also.",
+        "start": 147392,
+        "end": 150848,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8166950941085815,
+        "speaker": null
+    },
+    {
+        "text": "I remember the midway point of this IPL.",
+        "start": 151016,
+        "end": 153136,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.874504804611206,
+        "speaker": null
+    },
+    {
+        "text": "There was a lot of indian team's future.",
+        "start": 153280,
+        "end": 158532,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8012117147445679,
+        "speaker": null
+    },
+    {
+        "text": "Eleven in 2028, 2029.",
+        "start": 158728,
+        "end": 161228,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8904503583908081,
+        "speaker": null
+    },
+    {
+        "text": "And it was a great lineup.",
+        "start": 161356,
+        "end": 162740,
+        "sentiment": "POSITIVE",
+        "confidence": 0.969311535358429,
+        "speaker": null
+    },
+    {
+        "text": "It was like Yashasvi and Abhishek Sharma to open.",
+        "start": 162772,
+        "end": 165904,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9132562875747681,
+        "speaker": null
+    },
+    {
+        "text": "Number three, Shubman.",
+        "start": 166644,
+        "end": 167764,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7970187664031982,
+        "speaker": null
+    },
+    {
+        "text": "Number four, Riyan Parag.",
+        "start": 167884,
+        "end": 169464,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8444923758506775,
+        "speaker": null
+    },
+    {
+        "text": "Number five, Nitesh Reddy.",
+        "start": 170044,
+        "end": 171556,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8750078082084656,
+        "speaker": null
+    },
+    {
+        "text": "We're very excited about the guys coming through.",
+        "start": 171660,
+        "end": 173944,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9904416799545288,
+        "speaker": null
+    },
+    {
+        "text": "What excited me personally was, again, a lot of all rounders, like both you and Abhishek and Bol Nitish as well.",
+        "start": 175684,
+        "end": 182132,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9665841460227966,
+        "speaker": null
+    },
+    {
+        "text": "Nitish, definitely.",
+        "start": 182188,
+        "end": 183984,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6815001368522644,
+        "speaker": null
+    },
+    {
+        "text": "It's very exciting to see this new crop.",
+        "start": 184654,
+        "end": 187754,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9910768270492554,
+        "speaker": null
+    },
+    {
+        "text": "You're a football fan also, kind of.",
+        "start": 188374,
+        "end": 190670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.791271984577179,
+        "speaker": null
+    },
+    {
+        "text": "Okay.",
+        "start": 190782,
+        "end": 191414,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5843515992164612,
+        "speaker": null
+    },
+    {
+        "text": "But for fans, when we see a lot of young players emerging together, we always see this as India fans.",
+        "start": 191534,
+        "end": 197958,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5446571111679077,
+        "speaker": null
+    },
+    {
+        "text": "Honestly, there's always a new crop.",
+        "start": 198006,
+        "end": 200094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6897245645523071,
+        "speaker": null
+    },
+    {
+        "text": "But there is something special about you guys, especially from this all rounder attacking perspective.",
+        "start": 200254,
+        "end": 205150,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9212821125984192,
+        "speaker": null
+    },
+    {
+        "text": "Are you guys aware of this or everyone's just carrying on quietly with their own?",
+        "start": 205342,
+        "end": 209254,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8389558792114258,
+        "speaker": null
+    },
+    {
+        "text": "I think everyone's carrying on quietly.",
+        "start": 209414,
+        "end": 211454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5397224426269531,
+        "speaker": null
+    },
+    {
+        "text": "Everyone knows that we are the next punch to play for the country, etcetera, whatever it is.",
+        "start": 211574,
+        "end": 218904,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6093034744262695,
+        "speaker": null
+    },
+    {
+        "text": "But then that's, I think, something for the future.",
+        "start": 219064,
+        "end": 222296,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7684803009033203,
+        "speaker": null
+    },
+    {
+        "text": "If that works out how they.",
+        "start": 222400,
+        "end": 224160,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7983598709106445,
+        "speaker": null
+    },
+    {
+        "text": "How these people have actually said it's gonna work out, it's great.",
+        "start": 224192,
+        "end": 228568,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8242186307907104,
+        "speaker": null
+    },
+    {
+        "text": "It's gonna be great.",
+        "start": 228656,
+        "end": 229496,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9714677929878235,
+        "speaker": null
+    },
+    {
+        "text": "Because all these guys, all of us, we play a different brand of cricket.",
+        "start": 229560,
+        "end": 234244,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7437990307807922,
+        "speaker": null
+    },
+    {
+        "text": "You see someone's going on a hat trick ball.",
+        "start": 234864,
+        "end": 237760,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.827227771282196,
+        "speaker": null
+    },
+    {
+        "text": "If it's up, he's gonna hit it for a six.",
+        "start": 237792,
+        "end": 239644,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8564020395278931,
+        "speaker": null
+    },
+    {
+        "text": "It's stuff like that.",
+        "start": 240124,
+        "end": 241504,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7107837796211243,
+        "speaker": null
+    },
+    {
+        "text": "We are not bothered by how the situation is.",
+        "start": 242044,
+        "end": 246820,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4974353313446045,
+        "speaker": null
+    },
+    {
+        "text": "How the situation is like.",
+        "start": 246932,
+        "end": 248732,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.745197057723999,
+        "speaker": null
+    },
+    {
+        "text": "And by situation, I don't mean game situation.",
+        "start": 248908,
+        "end": 250852,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5894703269004822,
+        "speaker": null
+    },
+    {
+        "text": "I mean like the tense, the hype, whatever it is, we'll go on and do our own work.",
+        "start": 250948,
+        "end": 256460,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7563393115997314,
+        "speaker": null
+    },
+    {
+        "text": "If I want to go and hit a six, I've gotten the ball, I'll go hit a six.",
+        "start": 256652,
+        "end": 260876,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8746393322944641,
+        "speaker": null
+    },
+    {
+        "text": "Regardless of everyone moving or regardless of everyone being in a low mood or whatever it is.",
+        "start": 261020,
+        "end": 265644,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6434652209281921,
+        "speaker": null
+    },
+    {
+        "text": "So I think that is going to be the x factor that changes how we play cricket.",
+        "start": 265684,
+        "end": 270438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8100852966308594,
+        "speaker": null
+    },
+    {
+        "text": "How India plays cricket, hopefully.",
+        "start": 270526,
+        "end": 271790,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7134696245193481,
+        "speaker": null
+    },
+    {
+        "text": "Fearlessness.",
+        "start": 271822,
+        "end": 272662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49789172410964966,
+        "speaker": null
+    },
+    {
+        "text": "Fearlessness.",
+        "start": 272798,
+        "end": 273794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49789172410964966,
+        "speaker": null
+    },
+    {
+        "text": "Even further.",
+        "start": 274454,
+        "end": 275214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7066009044647217,
+        "speaker": null
+    },
+    {
+        "text": "Even further.",
+        "start": 275294,
+        "end": 275982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7066009044647217,
+        "speaker": null
+    },
+    {
+        "text": "I don't know if you're too young to have watched Sourav Ganguly.",
+        "start": 276078,
+        "end": 280262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5013759732246399,
+        "speaker": null
+    },
+    {
+        "text": "I watched a little bit.",
+        "start": 280358,
+        "end": 281374,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7865071892738342,
+        "speaker": null
+    },
+    {
+        "text": "Little bit.",
+        "start": 281454,
+        "end": 281902,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6512220501899719,
+        "speaker": null
+    },
+    {
+        "text": "What's your earliest cricket memory?",
+        "start": 281958,
+        "end": 283514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9113163948059082,
+        "speaker": null
+    },
+    {
+        "text": "I actually met him in 2008 at Eden Gardens.",
+        "start": 284014,
+        "end": 287194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8290535807609558,
+        "speaker": null
+    },
+    {
+        "text": "So I was like this watch.",
+        "start": 288054,
+        "end": 290274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8212713003158569,
+        "speaker": null
+    },
+    {
+        "text": "What's your earliest memory of watching.",
+        "start": 291374,
+        "end": 292958,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8875803351402283,
+        "speaker": null
+    },
+    {
+        "text": "Watching Dada was.",
+        "start": 293046,
+        "end": 294298,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8228380084037781,
+        "speaker": null
+    },
+    {
+        "text": "I just remember, I think, which World cup was it?",
+        "start": 294446,
+        "end": 298178,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8852242231369019,
+        "speaker": null
+    },
+    {
+        "text": "2007, something like that.",
+        "start": 298306,
+        "end": 301826,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.753531813621521,
+        "speaker": null
+    },
+    {
+        "text": "He was just stepping out and hitting overcovers.",
+        "start": 301850,
+        "end": 304890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8491759896278381,
+        "speaker": null
+    },
+    {
+        "text": "Stepping out, hitting overcovers.",
+        "start": 304962,
+        "end": 306514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7983697056770325,
+        "speaker": null
+    },
+    {
+        "text": "Andrew Filtoff, anyone?",
+        "start": 306634,
+        "end": 308738,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8660812973976135,
+        "speaker": null
+    },
+    {
+        "text": "Ashley Giles was bowling, was stepping out, hitting huge sixes.",
+        "start": 308786,
+        "end": 311530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8371151089668274,
+        "speaker": null
+    },
+    {
+        "text": "I was like, that's something different.",
+        "start": 311562,
+        "end": 315574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7378957271575928,
+        "speaker": null
+    },
+    {
+        "text": "I remember I was a kid when he got captaincy, and that was where the fearlessness began.",
+        "start": 315874,
+        "end": 320530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5699418783187866,
+        "speaker": null
+    },
+    {
+        "text": "It increased quietly with Ms. Dhoni.",
+        "start": 320642,
+        "end": 323182,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7873940467834473,
+        "speaker": null
+    },
+    {
+        "text": "It increased a lot more when Kohli got captaincy.",
+        "start": 323298,
+        "end": 326014,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7314920425415039,
+        "speaker": null
+    },
+    {
+        "text": "And I see you guys as like, that final form of fearlessness.",
+        "start": 326174,
+        "end": 330114,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7514519095420837,
+        "speaker": null
+    },
+    {
+        "text": "If you enjoyed today's clip, make sure you check out these curated playlists that we've made especially for you related to the subject that was spoken about in this clip.",
+        "start": 330454,
+        "end": 338614,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8329644203186035,
+        "speaker": null
+    }
+]
