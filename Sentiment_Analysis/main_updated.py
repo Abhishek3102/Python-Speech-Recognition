@@ -16,14 +16,11 @@ def save_video_sentiments(url):
 if __name__ == "__main__":
     # save_video_sentiments("https://youtu.be/MD0k7aWS5Fc?si=VW1dm4s8A4sWU9yN")
 
-    # Define the path to the data folder
     data_folder = 'data'
     filename = "Future_Of_Indian_Cricket_With_Riyan_Parag_-_Abhishek,_Yashasvi,_Jurel_&_More_sentiments.json"
 
-    # Construct the full path to the file
     file_path = os.path.join(data_folder, filename)
 
-    # Open the file using the full path
     with open(file_path, "r") as f:
         data = json.load(f)
     
@@ -47,7 +44,6 @@ if __name__ == "__main__":
     print("Num negatives:", n_neg)
     print("Num neutrals:", n_neut)
 
-    # Ignore neutrals here
     if n_pos + n_neg > 0:
         r = n_pos / (n_pos + n_neg)
         print(f"Positive ratio: {r:.3f}")
