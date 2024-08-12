@@ -35,7 +35,7 @@ This repository contains a Python speech recognition project that focuses on var
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the main scripts using the files names specified.
+3. Run the main scripts using the file names specified.
     
 ## API Key
 
