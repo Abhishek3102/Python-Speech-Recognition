@@ -29,17 +29,14 @@ This repository contains a Python speech recognition project that focuses on var
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Abhishek3102/Python-Speech-Recognition.git
     ```
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the main script:
-    ```bash
-    python main.py
-    ```
-
+3. Run the main scripts using the files names specified.
+    
 ## API Key
 
 Ensure that you have an AssemblyAI API key placed in the `api_secrets.py` file for the speech-to-text functionality.
